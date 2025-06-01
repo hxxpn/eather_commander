@@ -1,0 +1,2 @@
+class ConfigSchema:
+    pass
